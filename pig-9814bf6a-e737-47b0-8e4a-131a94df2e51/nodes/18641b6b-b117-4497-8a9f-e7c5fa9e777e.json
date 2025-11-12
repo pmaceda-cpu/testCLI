@@ -1,0 +1,35 @@
+{
+  "key" : "18641b6b-b117-4497-8a9f-e7c5fa9e777e",
+  "parentNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "packageNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "name" : "testtevent1",
+  "type" : "EVENT",
+  "configuration" : {
+    "apiVersion" : "businessgraph.celonis.com/v1",
+    "entityMetadata" : {
+      "name" : "testtevent1",
+      "namespace" : "custom"
+    },
+    "kind" : "EVENT",
+    "categories" : [ ],
+    "spec" : {
+      "fields" : [ {
+        "name" : "ID",
+        "dataType" : "CT_UTF8_STRING"
+      }, {
+        "name" : "Time",
+        "dataType" : "CT_INSTANT"
+      } ],
+      "description" : "",
+      "relationships" : [ ],
+      "calculatedAttributes" : [ ]
+    },
+    "tags" : [ ]
+  },
+  "schemaVersion" : 1,
+  "showInViewerMode" : false,
+  "publicAvailable" : false,
+  "embeddable" : false,
+  "assetType" : "EVENT",
+  "order" : 0
+}
