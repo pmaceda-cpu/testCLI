@@ -1,0 +1,27 @@
+{
+  "key" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "name" : "OCPM Data Pool - Main",
+  "type" : "PIG",
+  "configuration" : {
+    "variables" : [ {
+      "key" : "dataPoolId",
+      "type" : "DATA_POOL_ID"
+    }, {
+      "key" : "yPnZCL_GLOBAL",
+      "type" : "DATA_SOURCE"
+    }, {
+      "key" : "ilOzzH_BUSINESSGRAPH",
+      "type" : "DATA_SOURCE"
+    } ],
+    "ccdmContentVersion" : "v2.0.5",
+    "invalid" : false,
+    "autoUpdateCCDM" : true
+  },
+  "schemaVersion" : 1,
+  "flavor" : "OCDM",
+  "showInViewerMode" : false,
+  "publicAvailable" : false,
+  "embeddable" : false,
+  "assetType" : "PIG",
+  "order" : 0
+}

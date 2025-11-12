@@ -1,0 +1,41 @@
+{
+  "key" : "5814643b-2ef6-43e3-8d54-608e449ef6b7",
+  "parentNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "packageNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "name" : "testtevent1 - 1",
+  "type" : "SQL_FACTORY",
+  "configuration" : {
+    "entityMetadata" : {
+      "name" : "testtevent1 - 1",
+      "namespace" : "custom"
+    },
+    "draft" : false,
+    "dataSets" : [ {
+      "id" : "testtevent1Attributes",
+      "sql" : "select \n'1' as \"ID\"",
+      "kind" : "SQL_FACTORY_DATA_SET",
+      "target" : "BASE",
+      "disabled" : false
+    } ],
+    "disabled" : false,
+    "categories" : [ ],
+    "parameters" : [ ],
+    "dataConnectionId" : "ilOzzH_BUSINESSGRAPH",
+    "validationStatus" : "VALID",
+    "tags" : [ ],
+    "target" : {
+      "kind" : "EVENT",
+      "entityRef" : {
+        "name" : "testtevent1",
+        "namespace" : "custom"
+      }
+    },
+    "extensionDataSets" : [ ]
+  },
+  "schemaVersion" : 1,
+  "showInViewerMode" : false,
+  "publicAvailable" : false,
+  "embeddable" : false,
+  "assetType" : "SQL_FACTORY",
+  "order" : 0
+}

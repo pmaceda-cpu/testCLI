@@ -1,0 +1,41 @@
+{
+  "key" : "d8f60ad5-4feb-464f-9d02-bb34552c29e4",
+  "parentNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "packageNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "name" : "Testobject1 - 1",
+  "type" : "SQL_FACTORY",
+  "configuration" : {
+    "entityMetadata" : {
+      "name" : "Testobject1 - 1",
+      "namespace" : "custom"
+    },
+    "draft" : false,
+    "dataSets" : [ {
+      "id" : "Testobject1Attributes",
+      "sql" : "\nSELECT\n\t'1' AS \"ID\"\n",
+      "kind" : "SQL_FACTORY_DATA_SET",
+      "target" : "BASE",
+      "disabled" : false
+    } ],
+    "disabled" : false,
+    "categories" : [ ],
+    "parameters" : [ ],
+    "dataConnectionId" : "yPnZCL_GLOBAL",
+    "validationStatus" : "VALID",
+    "tags" : [ ],
+    "target" : {
+      "kind" : "OBJECT",
+      "entityRef" : {
+        "name" : "Testobject1",
+        "namespace" : "custom"
+      }
+    },
+    "extensionDataSets" : [ ]
+  },
+  "schemaVersion" : 1,
+  "showInViewerMode" : false,
+  "publicAvailable" : false,
+  "embeddable" : false,
+  "assetType" : "SQL_FACTORY",
+  "order" : 0
+}

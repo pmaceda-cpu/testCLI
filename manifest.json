@@ -1,0 +1,10 @@
+[
+  {
+    "packageKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+    "flavor" : "OCDM",
+    "activeVersion" : "0.0.1",
+    "dependenciesByVersion" : {
+      "0.0.1" : [ ]
+    }
+  }
+]

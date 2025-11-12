@@ -1,0 +1,23 @@
+[
+  {
+    "packageKey": "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+    "version": "0.0.1",
+    "variables": [
+      {
+        "key": "dataPoolId",
+        "value": "da504f89-9f37-4136-9d5b-feb7be128add",
+        "type": "DATA_POOL_ID"
+      },
+      {
+        "key": "yPnZCL_GLOBAL",
+        "value": "",
+        "type": "DATA_SOURCE"
+      },
+      {
+        "key": "ilOzzH_BUSINESSGRAPH",
+        "value": "00000000-0000-0000-0000-000000000000",
+        "type": "DATA_SOURCE"
+      }
+    ]
+  }
+]

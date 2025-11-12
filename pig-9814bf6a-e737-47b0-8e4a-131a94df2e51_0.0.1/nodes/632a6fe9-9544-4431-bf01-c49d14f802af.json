@@ -1,0 +1,33 @@
+{
+  "key" : "632a6fe9-9544-4431-bf01-c49d14f802af",
+  "parentNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "packageNodeKey" : "pig-9814bf6a-e737-47b0-8e4a-131a94df2e51",
+  "name" : "Testobject1",
+  "type" : "OBJECT",
+  "configuration" : {
+    "apiVersion" : "businessgraph.celonis.com/v1",
+    "entityMetadata" : {
+      "name" : "Testobject1",
+      "namespace" : "custom"
+    },
+    "kind" : "OBJECT",
+    "categories" : [ ],
+    "spec" : {
+      "color" : "#4608B3",
+      "fields" : [ {
+        "name" : "ID",
+        "dataType" : "CT_UTF8_STRING"
+      } ],
+      "description" : "",
+      "relationships" : [ ],
+      "calculatedAttributes" : [ ]
+    },
+    "tags" : [ ]
+  },
+  "schemaVersion" : 1,
+  "showInViewerMode" : false,
+  "publicAvailable" : false,
+  "embeddable" : false,
+  "assetType" : "OBJECT",
+  "order" : 0
+}
